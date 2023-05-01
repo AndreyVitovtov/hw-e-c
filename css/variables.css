@@ -1,0 +1,16 @@
+:root {
+    /* Backgrounds */
+    --bg-primary: #510FAD;
+    --bg-secondary: #4E2982;
+    --bg-tertiary: #320571;
+    --bg-quaternary: #b891e7;
+    --bg-quintal: #976BD6;
+    --bg-main: #ececec;
+
+    /* Heights */
+    --h-header: 55px;
+
+    /* Fonts */
+    --ff-primary: Arial, sans-serif;
+    --ff-logo: Pacifico, sans-serif;
+}

@@ -1,0 +1,35 @@
+.main {
+    display: block;
+    padding: 40px 20px 20px 20px;
+}
+
+.product-description {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.characteristics h1 {
+    margin-bottom: 20px;
+}
+
+.characteristics ul {
+    margin-bottom: 25px;
+}
+
+.characteristics li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.characteristics > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.characteristics .price {
+    font-size: 24px;
+}
